@@ -10,10 +10,12 @@ Step 1: First Download This project by Direct from the github site --->
 Step 2: Now run the main.py file by command ---> #python main.py
 
 This project need some modules also :
-Install it by the commands ---> #pip install smtplib
+Install it by the commands --->
+<pre>
+                                #pip install smtplib
                                 #pip install pyfiglet
                                 #pip install imghdr
-                                
+<pre>                                
 <h3> Screenshots: </h3>
 <img src="images/1.png">
 <img src="images/2.png">          
