@@ -5,7 +5,7 @@ In this project we some best features like you can send the mail to the finite n
 
 <h3> Method (How We Can Use This Script ?)</h3>
 Step 1: First Download This project by Direct from the github site --->
-         <img src="images/3.png>
+         <img src="images/3.png">
         or You can run the command ---> #git clone <--url_of_the_project-->
 Step 2: Now run the main.py file by command ---> #python main.py
 
@@ -15,5 +15,5 @@ Install it by the commands ---> #pip install smtplib
                                 #pip install imghdr
                                 
 <h3> Screenshots: </h3>
-<img src="images/1.png>
-<img src="images/2.png>          
+<img src="images/1.png">
+<img src="images/2.png">          
